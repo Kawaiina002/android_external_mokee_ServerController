@@ -343,6 +343,14 @@
     "display": "5.15 inch, 1920x1080 pixel(428ppi)",
     "cpuarch": "arm64"
   },
+  "ginkgo": {
+    "cpu": "Qualcomm® Snapdragon™ 665",
+    "ram": "3GB/4GB/6GB of LP-DDR4X",
+    "rom": "32GB/64GB/128GB",
+    "battery": "4000 mAh",
+    "display": "6.3 inch, 1080x2340 pixel(409ppi)",
+    "cpuarch": "arm64"
+  },
   "griffin": {
     "cpu": "Qualcomm® Snapdragon™ 820",
     "ram": "4GB of LP-DDR4",
